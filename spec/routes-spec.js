@@ -1,4 +1,4 @@
-var routes = require("../lib/rapid-rest")();
+var routes = require("..")();
 
 describe('rapid-rest-routes', function(){
 
