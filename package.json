@@ -1,6 +1,7 @@
 {
     "name": "rapid-rest",
     "version": "0.2.0",
+    "main": "./lib/rapid-rest",
     "description": "Minimal rest server",
     "author": "Jason Rudland <knowlecules@gmail.com>",
     "dependencies": {
